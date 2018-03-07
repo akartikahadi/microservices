@@ -1,4 +1,4 @@
 zuul:
   routes:
-    ms-user: /api/user/**
-    ms-auth-server : /auth/**
+    msuser: /api/user/**
+    msauthserver : /auth/**
